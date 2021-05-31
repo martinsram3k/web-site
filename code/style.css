@@ -50,8 +50,6 @@ body {
 }
 */
 
-
-
 .dropbtn {
     background-color: transparent;
     color: rgb(0, 0, 0);
@@ -92,4 +90,3 @@ body {
 .dropdown:hover .dropbtn {
     background-color: transparent;
 }
-
