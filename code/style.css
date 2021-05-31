@@ -24,6 +24,7 @@
 body {
     font-family: Montserrat, sans-serif;
     background: white;
+   /* background: linear-gradient(to right, #ea01ff, #a200ff, #2600ff);*/
 }
 
 /*.topnav {
